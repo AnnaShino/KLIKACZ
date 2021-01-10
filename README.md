@@ -9,6 +9,7 @@ Ta prosta aplikacja jednookienkowa, została stworzona wraz z dziećmi, podczas 
 ![Certyfikat](https://github.com/AnnaShino/KLIKACZ/blob/main/certyfikat.png)
 
 Dzieci w wieku **11-13 lat** w ciągu zaledwie kilku godzin oswoiły się z **KOTLINEM** oraz z **ANDROID STUDIO** poprzez stworzenie aplikacji. Dodatkowo każdy z uczestników tworzył indywidualną grafikę dla swojej aplikacji oraz przetestował ją na swoim telefonie (nie tylko na emulatorze). 
+
 Na zakończenie, każde dziecko otrzymało DYPLOM mojego autorstwa (dane innych organizatorów / mentorów / opiekunów po za moimi ukryte).
 
 ![Dyplom](https://github.com/AnnaShino/KLIKACZ/blob/main/dyplom%20zaj%C4%99cia.png)
